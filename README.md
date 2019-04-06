@@ -1,2 +1,2 @@
 # francisdave.github.io
-Franc is Dave - Music | Code | Freedom
+Franc is Dave
